@@ -1,4 +1,5 @@
 // 팩토리얼 함수 index.js
+// 버전 2
 function factorial(n) {
 
     if( n < 0 ) { // n이 0 미만일 경우(오류)
